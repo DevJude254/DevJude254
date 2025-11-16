@@ -23,50 +23,45 @@
   <img src="https://img.shields.io/badge/Blockchain-Learning-7C3AED?style=for-the-badge&logo=ethereum&logoColor=white" />
 </p>
 
-<div align="center">
-
-<div align="center">
-
-<div align="center">
-
-## 🚀 ABOUT ME
-
+### 🚀 ABOUT ME
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-```yaml
-name: "Derrick Juma"
-role: "Software Engineer"
-location: "Nairobi, Kenya 🇰🇪"
-current_focus: "Flutter Development & AI Integration"
-learning: ["Blockchain", "Advanced ML", "Cloud Architecture"]
-passion: ["Mobile Apps", "AI/ML", "Blockchain", "Chess ♟️"]
-motto: "Building tomorrow's solutions, one commit at a time"
+```dart
+void main() {
+  final profile = {
+    'name': 'Derrick Juma',
+    'role': 'Software Engineer',
+    'location': 'Nairobi, Kenya 🇰🇪',
+    'current_focus': 'Flutter Development & AI Integration',
+    'learning': ['Blockchain', 'Advanced ML', 'Cloud Architecture'],
+    'passion': ['Mobile Apps', 'AI/ML', 'Blockchain', 'Chess ♟️'],
+    'motto': 'Building tomorrow\'s solutions, one commit at a time',
+  };
+}
 ```
 
 <div align="left">
 
-<br/>
+### 💫 What I'm Up To
 
-🔭 **Currently Building:** AfyaSmart - AI-Powered Health Assistant  
-🌐 **Portfolio:** [derrickjuma.netlify.app](https://derrickjuma.netlify.app)  
-🎯 **Mission:** Creating impactful mobile solutions powered by AI  
-🤝 **Open For:** Flutter/Kotlin collaborations & AI projects  
-⚡ **Fun Fact:** I solve chess puzzles while my code compiles!
+🎨 Building healthcare solutions with **Flutter & AI**  
+🔥 Exploring **Blockchain × AI × Mobile** possibilities  
+💼 Portfolio: [derrickjuma.netlify.app](https://derrickjuma.netlify.app)
+
+### 🤝 Let's Collaborate
+
+✨ Open to **Flutter • AI/ML • Open Source** projects  
+♟️ Solving chess puzzles between `flutter run` commands  
 
 </div>
-
 </td>
 <td width="50%" align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-
 </td>
 </tr>
 </table>
-
-</div>
 
 
 ## 🛠️ Tech Stack & Tools
